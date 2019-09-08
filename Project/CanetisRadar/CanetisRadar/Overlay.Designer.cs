@@ -68,7 +68,7 @@
             this.Name = "Overlay";
             this.ShowInTaskbar = false;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "CanetisRadar Overlay";
+            this.Text = "AIDA64 Extreme";
             this.TopMost = true;
             this.Load += new System.EventHandler(this.Overlay_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();

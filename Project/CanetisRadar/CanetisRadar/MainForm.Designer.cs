@@ -100,7 +100,7 @@
             this.Name = "MainForm";
             this.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "hFyr374Fyrn3";
+            this.Text = "AIDA64 Extreme";
             this.Load += new System.EventHandler(this.MainForm_Load);
             this.groupBox3.ResumeLayout(false);
             this.statusStrip1.ResumeLayout(false);
